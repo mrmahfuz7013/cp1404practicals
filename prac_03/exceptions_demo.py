@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 - Practical
+CP1404 - Practical
 Answer the following questions:
 1. When will a ValueError occur?
    - If the user enters something that cannot be converted to an int (e.g. letters or symbols).
