@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 Practical - Files
+CP1404 Practical - Files
 Make the appropriate choice of file-reading technique for each of these questions:
 - read()
 - readline()
