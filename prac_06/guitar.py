@@ -1,6 +1,8 @@
 """
 CP1404 Practical
 Guitar class
+Estimate: 10 mins
+Actual: 9 mins
 """
 CURRENT_YEAR = 2017
 VINTAGE_AGE = 50

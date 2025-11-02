@@ -1,6 +1,8 @@
 """
 CP1404
 Basic manual tests for Guitar class
+Estimate: 10 mins
+Actual: 10 mins
 """
 from prac_06.guitar import Guitar
 

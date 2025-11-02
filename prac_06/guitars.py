@@ -1,6 +1,8 @@
 """
 CP1404
-Guitar program.
+Guitar program
+Estimate: 15 mins
+Actual: 18 mins
 """
 from prac_06.guitar import Guitar
 
