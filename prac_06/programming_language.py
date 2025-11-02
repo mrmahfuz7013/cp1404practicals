@@ -1,6 +1,8 @@
 """
 CP1404 Practical
 Programming Language class with tests.
+Estimate: 20 mins
+Actual: 26 mins
 """
 
 
