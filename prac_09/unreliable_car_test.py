@@ -26,6 +26,4 @@ def main():
     print(good_car)
     print(bad_car)
 
-
-if __name__ == "__main__":
-    main()
+main()
